@@ -6,11 +6,6 @@ using System.Threading.Tasks;
 
 namespace _28_4
 {
-    enum Stati 
-    {
-        Disponibile, 
-        InPrestito
-    }
     internal class Documento
     {
         public string Scaffale { get; set; }
